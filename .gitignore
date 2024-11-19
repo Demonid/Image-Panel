@@ -1,0 +1,9 @@
+# Excluir la carpeta de sesiones de CodeIgniter
+writable/session/
+
+# Excluir la carpeta de imágenes dentro de writable/uploads/images (no debe ser seguida por git)
+writable/uploads/images/
+public/uploads
+
+#vendor
+vendor/
